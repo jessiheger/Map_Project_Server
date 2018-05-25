@@ -1,10 +1,10 @@
 {
   "name": "mernBoilerplate",
   "version": "0.0.0",
+  "main": "app.js",
   "private": true,
   "scripts": {
     "start": "node app.js",
-    "heroku-postbuild": "cd client && npm install --only=dev && npm install && npm run build"
   },
   "dependencies": {
     "bcrypt": "^1.0.3",
