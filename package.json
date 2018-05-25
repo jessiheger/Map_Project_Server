@@ -1,5 +1,5 @@
 {
-  "name": "mernBoilerplate",
+  "name": "travelproject",
   "version": "0.0.0",
   "main": "app.js",
   "private": true,
@@ -7,7 +7,7 @@
     "start": "node app.js"
   },
   "dependencies": {
-    "bcrypt": "^1.0.3",
+    "bcrypt": "^2.0.1",
     "body-parser": "~1.18.2",
     "cors": "^2.8.4",
     "debug": "~2.6.9",
