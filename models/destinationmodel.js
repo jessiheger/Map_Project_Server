@@ -21,7 +21,7 @@ var destinationSchema = new Schema (
 			required: false
 			},
 		lat: {
-			type: Number, 
+			type: String, 
 			required: false
 			},
 		lng: {
